@@ -8,8 +8,15 @@
 jrbauti-09/jrbauti-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
+## GitHub Stats
 [![jrbauti-09's GitHub stats](https://github-readme-stats.vercel.app/api?username=jrbauti-09)](https://github.com/jrbauti-09/github-readme-stats)
+
+## Projects
+<p align="center"> 
+<a href="https://github.com/jrbauti-09/markr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrbauti-09&repo=markr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+</a>
+  </p>
 
 ## Technical Skills
 
