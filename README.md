@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrbauti-09&repo=markr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   <a href="https://github.com/jrbauti-09/capstone" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrbauti-09&repo=markr&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jrbauti-09&repo=capstone&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=0D1117" />
 </a>
   </p>
 
