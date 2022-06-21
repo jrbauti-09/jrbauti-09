@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect With Me
 
-<!--
+
 
 <a href="mailto:jrbauti1@asu.edu" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://angel.co/u/joshua-bautista-5" target="_blank">
    <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
-
+<!--
 !-->
 
 ## Technical Skills
