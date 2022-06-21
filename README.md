@@ -20,15 +20,12 @@ You can click the Preview link to take a look at your changes.
   </p>
 
 ## Connect With Me
-
 <a href="mailto:jrbauti1@asu.edu" target="_blank">
    <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/" target="_blank">
    <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="https://angel.co/u/joshua-bautista-5" target="_blank">
    <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
 </a>
@@ -36,7 +33,6 @@ You can click the Preview link to take a look at your changes.
 <!--
 
 !-->
-
 #### Programming Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
