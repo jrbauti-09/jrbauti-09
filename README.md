@@ -21,7 +21,17 @@ You can click the Preview link to take a look at your changes.
 
 ## Connect With Me
 
-![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<a href="mailto:jrbauti1@asu.edu" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://angel.co/u/joshua-bautista-5" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
 
 
 ## Technical Skills
