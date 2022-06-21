@@ -19,9 +19,9 @@ You can click the Preview link to take a look at your changes.
 </a>
   </p>
 ## Connect With Me
-<a href="https://github.com/jrbauti-09/capstone" target="_blank">
+
 ![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+
 
 ## Technical Skills
 
