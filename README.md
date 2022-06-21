@@ -19,17 +19,6 @@ You can click the Preview link to take a look at your changes.
 </a>
   </p>
 
-## Connect With Me
-<a href="mailto:jrbauti1@asu.edu" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://angel.co/u/joshua-bautista-5" target="_blank">
-   <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
-</a>
-
 <!--
 
 !-->
@@ -49,5 +38,16 @@ You can click the Preview link to take a look at your changes.
 
 ## Future Skills
 ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
+### Connect With Me
+<a href="mailto:jrbauti1@asu.edu" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/joshua-raphael-bautista-8a019a11b/" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://angel.co/u/joshua-bautista-5" target="_blank">
+   <img align="left"src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" />
+</a>
 
 
